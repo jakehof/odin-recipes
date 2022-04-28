@@ -1,0 +1,27 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 42px;
+    text-align: center;
+}
+
+li{
+    list-style-type: square;
+    
+}
+
+.steps li{
+    list-style-type: decimal;
+}
+
+.food{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+h2{
+    font-size: 28px;
+    color: blue;
+    font-weight: bold;
+}
